@@ -130,7 +130,7 @@ if ($user_role === 'admin') {
             <a href="notifications.php" class="nav-item"><i class="fas fa-bell"></i> Notifications</a>
             <a href="settings.php" class="nav-item"><i class="fas fa-user-cog"></i> Settings</a>
             <hr style="border: 0; border-top: 1px solid rgba(255,255,255,0.1); margin: 1rem 0;">
-            <a href="log_in.php" class="nav-item" style="color: var(--danger);"><i class="fas fa-sign-out-alt"></i> Logout</a>
+            <a href="index.php" class="nav-item" style="color: var(--danger);"><i class="fas fa-sign-out-alt"></i> Logout</a>
         </nav>
     </aside>
 
